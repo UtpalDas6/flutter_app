@@ -7,6 +7,6 @@ A new Flutter application.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-![Screenshot](snap1.png)
-![Screenshot](snap2.png)
-![Screenshot](snap3.png)
+![Screenshot](snap1.PNG)
+![Screenshot](snap2.PNG)
+![Screenshot](snap3.PNG)
